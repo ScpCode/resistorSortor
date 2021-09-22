@@ -1,3 +1,6 @@
 models/**
 presentation/**
 src/**
+.vs/**
+resistorSortor.sln
+resistorSortor.suo
